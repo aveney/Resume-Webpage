@@ -1,0 +1,141 @@
+body { background-color: #d1fffc; }
+#backGr { margin: auto; 
+		background-color: #ffffff;
+		height: 1175px; 
+		width: 800px;
+		margin-top: -200px;
+		padding-top: 15px; }
+		
+header { background-color: #000000;
+		color: #2dbae5;
+		height: 100px; 
+		text-align: center;
+		font-size: 50pt;
+		font-weight: bold;
+		font-family: "Times New Roman", Times, serif;
+		}
+h1 { color: #2dbae5; 
+	text-align: center; }
+h3 { color: #d1fffc; 
+	text-align: center; }
+h5 { text-align: center; }	
+li { font-weight: bold;
+		line-height: 27px; }		
+footer { color: #ffffff; }		
+/*Navigation*/
+nav { background-color: white; 
+		width: 180px; }
+nav li { text-align: center;
+		list-style-type: none; 
+		line-height: 40px;
+		border-width: 2px;
+		border-color: #2dbae5;
+		border-style: solid; }
+nav ul { margin-left: -40px; }
+nav a { text-decoration: none; 
+		font-family: Arial, sans-serif; 
+		font-weight: bold; }
+nav a:link { color: #2dbae5; }
+nav a:visited { color: #2dbae5; }
+
+footer { height: 120px; 
+		background-color: black; 
+		margin-top: 20px;
+		color: #2dbae5; }
+
+/*Home Page Info*/
+#gradPhoto { display: block; 
+			margin: auto;
+			box-shadow: 5px 5px 5px; }
+			
+
+#flexPhotos { margin: auto;
+				height: 170px; 
+				width: 700px; 
+				border-style: groove;
+				border-color: #2dbae5;
+				border-width: 5px; }
+.flex-container {  list-style: none; 
+					display: flex;
+					flex-direction: row; 
+					flex-wrap: wrap;
+					align-content: center; 
+					}
+.flex-item { padding-right: 10px;
+			margin-bottom: 15px; 
+			margin-right: auto;
+			margin-left: auto; }
+
+#obj { text-decoration: underline; }			
+#objective { text-align: center;
+			color: #2dbae5; 
+			font-size: 14pt; 
+			margin-bottom: 70px; }
+#skills { background-color: #d1fffc; 
+			width: 600px;
+			margin-right: auto; 
+			margin-left: auto; 
+			padding: 20px; 
+			border-radius: 15px; }
+
+/*Education and Activities*/
+#eduBackground { margin: auto; 
+		background-color: #ffffff;
+		height: 1020px; 
+		width: 800px;
+		margin-top: -200px;
+		padding-top: 15px; }
+
+#education  { width: 630px; 
+			height: 240px; 
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 40px; 
+			background-color: #2dbae5; 
+			color: #ffffff; }
+		
+#activities { width: 630px; 
+			height: 175px; 
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 40px; 
+			background-color: #2dbae5; 
+			color: #ffffff; }
+			
+/* Carousel Resize */		
+#newDiv { width: 500px;
+		box-shadow: 5px 5px 5px;
+		margin-right: auto; 
+		margin-left: auto; 
+		margin-top: 30px; }
+		
+		
+/*Employment and References*/
+#employmentHis { width: 680px; 
+			height: 290px; 
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 30px; 
+			padding: 20px; 
+			background-color: #2dbae5; 
+			color: #ffffff; }
+
+#empBackground { margin: auto; 
+				background-color: #ffffff;
+				height: 800px; 
+				width: 800px;
+				margin-top: -115px;
+				padding-top: 15px; }
+			
+#references { width: 680px; 
+			height: 150px; 
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 60px; 
+			padding: 20px; 
+			background-color: #2dbae5; 
+			color: #ffffff; }
+
+.sidePic { float: right; 
+			clear: float;
+			margin-top: -190px; }
