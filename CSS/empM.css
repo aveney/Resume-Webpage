@@ -1,0 +1,22 @@
+h1 { font-size: 18pt; }
+
+header { font-size: 22pt;
+        height: 50px; }
+		
+#empBackground { height: 800px; 
+				width: 360px;
+				margin-top: 35px;
+				padding-top: 15px; }
+				
+#employmentHis { width: 360px; 
+				height: 250px; }
+
+#references { width: 360px; 
+			height: 150px; }
+			
+.listing	{ font-size: 8pt; }
+				
+.sidePic { visibility: hidden; }
+				
+dt { font-size: 8pt; }
+dl { font-size: 8.2pt; }
